@@ -7,6 +7,8 @@ Resource
 - Web Listening : https://www.liveworksheets.com/w/en/toefl-junior/1288203
 - 
 
+# Listening
+- 10 questions : https://toefl-samples.ets-rschtech-prod.c.ets.org/toefl_www/toefl_junior/prepare/standard_sample_questions/listening_comprehension.html
 
 # Reading
 - Online example reading test 1 : https://www.examenglish.com/TOEFL_Junior/toefl_junior_reading1.htm
