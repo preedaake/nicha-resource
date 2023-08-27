@@ -1,0 +1,1 @@
+# nicha-resource
