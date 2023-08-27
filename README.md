@@ -1,4 +1,4 @@
-# Nicha-resource
+# Nicha G4
 
 # Toefl-Junior
 Resource
